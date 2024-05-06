@@ -1,0 +1,11 @@
+{
+  "secretKey": "secret-key",
+  "serverPort": "3080",
+  "mongoConfig": {
+    "host": "localhost",
+    "port": 27017,
+    "dbName": "myDatabase",
+    "username": "",
+    "password": ""
+  }
+}
